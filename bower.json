@@ -1,0 +1,9 @@
+{
+  "name": "yo3",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bootstrap": "~3.3.4",
+    "bootstrap-table": "~1.7.0"
+  }
+}
